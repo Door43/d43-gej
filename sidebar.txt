@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[gej:home|Door43 (gej)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-gej|d43-gej repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-gej/archive/master.zip|d43-gej.zip]]
+
+**Recent Changes**
+{{changes>ns = gej}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/gej|Ethnologue data]]
+
